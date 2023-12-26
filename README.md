@@ -46,7 +46,7 @@ date = "2023-12-20"
 date_pbp = nhlpbpds.scrape_date(date)
 print(date_pbp.head())
 ```
-Also see the examples.ipynb file to see these examples
+Also see the examples/examples.py file to see these examples
 ### Column Documentation
 
 1. **game_id**: Identifier for the game.
