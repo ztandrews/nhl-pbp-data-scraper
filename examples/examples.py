@@ -1,7 +1,9 @@
 ################### examples.py ###################
 #                                                 #
 #            Quick program to provide             #
-#            Examples of the scraper in use       #
+#            Examples of the scraper in use.      #
+#            Run in project's root dir, using     #
+#            python -m examples.ex                #
 #                                                 #
 ###################################################
 
